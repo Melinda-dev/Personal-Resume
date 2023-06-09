@@ -1,0 +1,17 @@
+div{
+  position: absolute;
+  left: 50px;
+}
+
+h1 {
+  font-size: 18px;
+  font-family: verdana,sans-serif;
+  font color: black;
+}
+
+input[type=text], input[type=submit],textarea, p,label{
+  display:inline-block;
+  font-size: 14px;
+  font-family: verdana,sans-serif;
+  font color: black;
+}
